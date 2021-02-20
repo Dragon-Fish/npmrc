@@ -1,6 +1,6 @@
 # npmrc
 
-```
+```npm-config
 # node-canvas
 canvas_binary_host_mirror=https://npm.taobao.org/mirrors/node-canvas-prebuilt/
 # chromedriver
